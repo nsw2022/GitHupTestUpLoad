@@ -9,7 +9,7 @@ public abstract class Animal {
 
         ani.say();
         ani2.say();
-        
+
     }
 }
 class Dog extends Animal{
